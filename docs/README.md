@@ -38,8 +38,8 @@
 
 | 技术                | 实现                          | 维护者及项目地址                               |
 |:-------------------|:-----------------------------|:--------------------------------------------|
-| ***Mirai Http***   | Mirai 标准                    | [mamoe/mirai-api-http]                      |
-| *OneBot Http*      | [OneBot] 标准                 | [yyuueexxiinngg/onebot-kotlin]              |
+| ***Mirai Http***   | Mirai 标准                   | [mamoe/mirai-api-http]                      |
+| *OneBot Http*      | [OneBot] 标准                | [yyuueexxiinngg/onebot-kotlin]              |
 | `Kotlin Scripting` | JVM                          | [iTXTech/mirai-kts]                         |
 | `Python`           | *Mirai Http*                 | [Graia Framework][GraiaProject/Application] |
 | `Python`           | *Mirai Http* / *OneBot Http* | [NoneBot]                                   |
@@ -54,8 +54,9 @@
 | `JavaScript`       | TypeScript / *Mirai Http*    | [YunYouJun/mirai-ts]                        |
 | `JavaScript`       | Node.js / *Mirai Http*       | [drinkal/Mirai-js]                          |
 | `Go`               | *Mirai Http*                 | [Logiase/gomirai]                           |
-| `易语言`            | *Mirai Http*                 | [only52607/e-mirai]                         |
-| *酷 Q DLL 插件*     | JNI                          | [iTXTech/mirai-native]                      |
+| `易语言`           | *Mirai Http*                 | [only52607/e-mirai]                         |
+| *酷 Q DLL 插件*    | JNI                          | [iTXTech/mirai-native]                      |
+| *PHP*            | *OneBot Http*                | [endymx/MPBot]                      |
 
 > 排名不分先后  
 > *想在这里添加你的项目？欢迎[提交 PR](https://github.com/mamoe/mirai/edit/dev/docs/README.md)。*
